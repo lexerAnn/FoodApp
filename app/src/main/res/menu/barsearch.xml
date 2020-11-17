@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_notes_folder"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/search_notes_folder1"
+        android:title=""
+
+        app:showAsAction="" />
+    <item
+        android:id="@+id/search_notes_folder2"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search_notes_folder3"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search_notes_folder5"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search_notes_folder6"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search_notes_folder9"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search_notes_folder8"
+        android:title=""
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/search_notes_folder10"
+        android:title=""
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/search_notes_folder7"
+        android:title=""
+        app:showAsAction="always" />
+
+
+
+</menu>
